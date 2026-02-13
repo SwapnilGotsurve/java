@@ -1,3 +1,4 @@
+//program to swap two numbers without using third variable
 class SwapWithoutTemp{
     public static void main(String[] args){
         int a = 10;
